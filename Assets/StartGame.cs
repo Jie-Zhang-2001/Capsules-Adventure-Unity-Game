@@ -1,0 +1,28 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
+public class StartGame : MonoBehaviour
+{
+    public string path;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+    public void setGameScene(string s) {
+        path = s;
+    }
+    public void startGameScene() {
+        SceneManager.LoadScene(path,LoadSceneMode.Single);
+    }
+   
+}
