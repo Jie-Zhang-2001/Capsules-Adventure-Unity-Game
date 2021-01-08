@@ -17,7 +17,7 @@
 **Checkpoint 1**
 
 <p align="center">
-<img src = "./READMEImg/CheckPoint1.gif" style = "
+<img src = "./READMEImg/CheckPoint2Hammer.gif" style = "
   width: 75%;"/> 
 
     *Tip: Avoid traps*
@@ -28,7 +28,7 @@
 **Checkpoint 2**
 
 <p align="center">
-<img src = "./READMEImg/CheckPoint2Hammer.gif" style = "
+<img src = "./READMEImg/CheckPoint1.gif" style = "
     width: 85%;"/> 
 
     *Tip: Adjust your camera angle to pass*
