@@ -1,7 +1,7 @@
 # <p style="text-align: center;"> **Capsule's Adventure** </p>
 ## <a href= "https://play.unity.com/mg/other/newbuild-4"> **PLAY GAME** </a>
 ## **Description**
-<p> Capsule’s Adventure is a platform game in which the players have to pass various obstacles to win the game. This game requires players to spend some time and effort, its difficulty is considered high by the designers. So, feel free to challenge and prove us wrong. </p>
+<p> Capsule’s Adventure is a 3D platform game in which the players have to pass various obstacles to win the game. This game requires players to spend some time and effort, its difficulty is considered high by the designers. So, feel free to challenge and prove us wrong. </p>
 
 ## **How To Play**
 * **WASD** to control the Capsule's movement
