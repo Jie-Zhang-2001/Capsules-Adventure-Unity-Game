@@ -17,8 +17,8 @@
 **Checkpoint 1**
 
 <p align="center">
-<img src = "./READMEImg/CheckPoint1.gif" style = "
-  width: 400px;"/> 
+<img src = "./READMEImg/CheckPoint1New.gif" style = "
+  width: 100%;"/> 
 
     *Tip: Avoid traps*
 </p>
