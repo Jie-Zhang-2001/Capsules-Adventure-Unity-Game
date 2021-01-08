@@ -16,85 +16,83 @@
 
 **Checkpoint 1**
 
-<img src = "./READMEImg/CheckPoint1.gif" style = "  display: block;
-  margin-left: auto;
-  margin-right: auto;
+<p style = "text-align: center">
+<img src = "./READMEImg/CheckPoint1.gif" style = "
   width: 85%;"/> 
+</p>
 
 *Tip: Avoid traps*
 
 **Checkpoint 2**
 
-<img src = "./READMEImg/CheckPoint2Hammer.gif" style = "  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 85%;"/> 
+<p style = "text-align: center">
+<img src = "./READMEImg/CheckPoint2Hammer.gif" style = "
+    width: 85%;"/> 
+</p>
 
 *Tip: Adjust your camera angle to pass*
 
 **Checkpoint 3**
 
-<img src = "./READMEImg/CheckPoint3YinYang.gif" style = "  display: block;
-  margin-left: auto;
-  margin-right: auto;
+<p style = "text-align: center">
+<img src = "./READMEImg/CheckPoint3YinYang.gif" style = "
   width: 85%;"/> 
+</p>
 
 *Tip: Yin & Yang planes are rotating*
 
 **CheckPoint 4**
 
-<img src = "./READMEImg/CheckPoint4RotatingBars.gif" style = "  display: block;
-  margin-left: auto;
-  margin-right: auto;
+<p style = "text-align: center">
+<img src = "./READMEImg/CheckPoint4RotatingBars.gif" style = "
   width: 85%;"/> 
+</p>
 
 **CheckPoint 5**
 
-<img src = "./READMEImg/CheckPoint5RotatingFan.gif" style = "  display: block;
-  margin-left: auto;
-  margin-right: auto;
+<p style = "text-align: center">
+<img src = "./READMEImg/CheckPoint5RotatingFan.gif" style = "
   width: 85%;"/> 
+</p>
 
 **CheckPoint 6**
 
-<img src = "./READMEImg/CheckPoint6.gif" style = "  display: block;
-  margin-left: auto;
-  margin-right: auto;
+<p style = "text-align: center">
+<img src = "./READMEImg/CheckPoint6.gif" style = "
   width: 85%;"/> 
-  
+</p>
+
   *Tip: Avoid traps*
 
 **CheckPoint 7**
 
-<img src = "./READMEImg/CheckPoint7New.gif" style = "  display: block;
-  margin-left: auto;
-  margin-right: auto;
+<p style = "text-align: center">
+<img src = "./READMEImg/CheckPoint7New.gif" style = "
   width: 85%;"/> 
-
+</p>
 *Tip: Find another path other than going straight up*
 
 **CheckPoint 8**
 
-<img src = "./READMEImg/CheckPoint8.gif" style = "display: block;
-  margin-left: auto;
-  margin-right: auto;
+<p style = "text-align: center">
+<img src = "./READMEImg/CheckPoint8.gif" style = "
   width: 85%;"/> 
+</p>
 
 **CheckPoint 9**
 
-<img src = "./READMEImg/CheckPoint9.gif" style = "display: block;
-  margin-left: auto;
-  margin-right: auto;
+<p style = "text-align: center">
+<img src = "./READMEImg/CheckPoint9.gif" style = "
   width: 85%;"/> 
-
+</p>
   *Tip: Find the path to avoid all enemies*
 
 **CheckPoint 10**
 
-<img src = "./READMEImg/CheckPoint10.gif" style = "display: block;
-  margin-left: auto;
-  margin-right: auto;
+<p style = "text-align: center">
+<img src = "./READMEImg/CheckPoint10.gif" style = "
   width: 85%;"/> 
+</p>
 
 ## **Built With**
 * Unity
