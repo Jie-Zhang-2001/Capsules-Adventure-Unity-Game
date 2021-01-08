@@ -13,8 +13,10 @@
 * **Space** to jump ( double jump allowed )
 
 ## **Gameplay**
+
 **Checkpoint 1**
-<img src = "./CheckPoint1.gif" style = "  display: block;
+
+<img src = "./READMEImg/CheckPoint1.gif" style = "  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 85%;"/> 
@@ -23,7 +25,7 @@
 
 **Checkpoint 2**
 
-<img src = "./CheckPoint2Hammer.gif" style = "  display: block;
+<img src = "./READMEImg/CheckPoint2Hammer.gif" style = "  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 85%;"/> 
@@ -32,7 +34,7 @@
 
 **Checkpoint 3**
 
-<img src = "./CheckPoint3YinYang.gif" style = "  display: block;
+<img src = "./READMEImg/CheckPoint3YinYang.gif" style = "  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 85%;"/> 
@@ -40,19 +42,22 @@
 *Tip: Yin & Yang planes are rotating*
 
 **CheckPoint 4**
-<img src = "./CheckPoint4RotatingBars.gif" style = "  display: block;
+
+<img src = "./READMEImg/CheckPoint4RotatingBars.gif" style = "  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 85%;"/> 
 
 **CheckPoint 5**
-<img src = "./CheckPoint5RotatingFan.gif" style = "  display: block;
+
+<img src = "./READMEImg/CheckPoint5RotatingFan.gif" style = "  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 85%;"/> 
 
 **CheckPoint 6**
-<img src = "./CheckPoint6.gif" style = "  display: block;
+
+<img src = "./READMEImg/CheckPoint6.gif" style = "  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 85%;"/> 
@@ -60,7 +65,8 @@
   *Tip: Avoid traps*
 
 **CheckPoint 7**
-<img src = "./CheckPoint7New.gif" style = "  display: block;
+
+<img src = "./READMEImg/CheckPoint7New.gif" style = "  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 85%;"/> 
@@ -68,13 +74,15 @@
 *Tip: Find another path other than going straight up*
 
 **CheckPoint 8**
-<img src = "./CheckPoint8.gif" style = "display: block;
+
+<img src = "./READMEImg/CheckPoint8.gif" style = "display: block;
   margin-left: auto;
   margin-right: auto;
   width: 85%;"/> 
 
 **CheckPoint 9**
-<img src = "./CheckPoint9.gif" style = "display: block;
+
+<img src = "./READMEImg/CheckPoint9.gif" style = "display: block;
   margin-left: auto;
   margin-right: auto;
   width: 85%;"/> 
@@ -82,7 +90,8 @@
   *Tip: Find the path to avoid all enemies*
 
 **CheckPoint 10**
-<img src = "./CheckPoint10.gif" style = "display: block;
+
+<img src = "./READMEImg/CheckPoint10.gif" style = "display: block;
   margin-left: auto;
   margin-right: auto;
   width: 85%;"/> 
