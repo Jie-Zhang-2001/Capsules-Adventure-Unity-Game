@@ -18,7 +18,7 @@
 
 <p align="center">
 <img src = "./READMEImg/CheckPoint2Hammer.gif" style = "
-  width: 75%;"/> 
+  width: 100%;"/> 
 
     *Tip: Avoid traps*
 </p>
@@ -29,7 +29,7 @@
 
 <p align="center">
 <img src = "./READMEImg/CheckPoint1.gif" style = "
-    width: 85%;"/> 
+    width: 100%;"/> 
 
     *Tip: Adjust your camera angle to pass*
 </p>
@@ -40,7 +40,7 @@
 
 <p align="center">
 <img src = "./READMEImg/CheckPoint3YinYang.gif" style = "
-  width: 85%;"/> 
+  width: 100%;"/> 
 
     *Tip: Yin & Yang planes are rotating*
 </p>
@@ -50,21 +50,21 @@
 
 <p align="center">
 <img src = "./READMEImg/CheckPoint4RotatingBars.gif" style = "
-  width: 85%;"/> 
+  width: 100%;"/> 
 </p>
 
 **CheckPoint 5**
 
 <p align="center">
 <img src = "./READMEImg/CheckPoint5RotatingFan.gif" style = "
-  width: 85%;"/> 
+  width: 100%;"/> 
 </p>
 
 **CheckPoint 6**
 
 <p align="center">
 <img src = "./READMEImg/CheckPoint6.gif" style = "
-  width: 85%;"/> 
+  width: 100%;"/> 
 
     *Tip: Avoid traps*
 </p>
@@ -73,7 +73,7 @@
 
 <p align="center">
 <img src = "./READMEImg/CheckPoint7New.gif" style = "
-  width: 85%;"/> 
+  width: 100%;"/> 
 
     *Tip: Find another path other than going straight up*
 </p>
@@ -83,14 +83,14 @@
 
 <p align="center">
 <img src = "./READMEImg/CheckPoint8.gif" style = "
-  width: 85%;"/> 
+  width: 100%;"/> 
 </p>
 
 **CheckPoint 9**
 
 <p align="center">
 <img src = "./READMEImg/CheckPoint9.gif" style = "
-  width: 85%;"/> 
+  width: 100%;"/> 
 
     *Tip: Find the path to avoid all enemies*
 </p>
@@ -100,7 +100,7 @@
 
 <p align="center">
 <img src = "./READMEImg/CheckPoint10.gif" style = "
-  width: 85%;"/> 
+  width: 100%;"/> 
 </p>
 
 ## **Built With**
