@@ -16,18 +16,18 @@
 
 **Checkpoint 1**
 
-<p style = "text-align: center">
+<p align="center">
 <img src = "./READMEImg/CheckPoint1.gif" style = "
   width: 75%;"/> 
 
-  *Tip: Avoid traps*
+    *Tip: Avoid traps*
 </p>
 
 
 
 **Checkpoint 2**
 
-<p style = "text-align: center">
+<p align="center">
 <img src = "./READMEImg/CheckPoint2Hammer.gif" style = "
     width: 85%;"/> 
 
@@ -38,59 +38,57 @@
 
 **Checkpoint 3**
 
-<p style = "text-align: center">
+<p align="center">
 <img src = "./READMEImg/CheckPoint3YinYang.gif" style = "
   width: 85%;"/> 
 
-  *Tip: Yin & Yang planes are rotating*
+    *Tip: Yin & Yang planes are rotating*
 </p>
 
 
 **CheckPoint 4**
 
-<p style = "text-align: center">
+<p align="center">
 <img src = "./READMEImg/CheckPoint4RotatingBars.gif" style = "
   width: 85%;"/> 
 </p>
 
 **CheckPoint 5**
 
-<p style = "text-align: center">
+<p align="center">
 <img src = "./READMEImg/CheckPoint5RotatingFan.gif" style = "
   width: 85%;"/> 
 </p>
 
 **CheckPoint 6**
 
-<p style = "text-align: center">
+<p align="center">
 <img src = "./READMEImg/CheckPoint6.gif" style = "
   width: 85%;"/> 
 
-*Tip: Avoid traps*
+    *Tip: Avoid traps*
 </p>
-
-
 
 **CheckPoint 7**
 
-<p style = "text-align: center">
+<p align="center">
 <img src = "./READMEImg/CheckPoint7New.gif" style = "
   width: 85%;"/> 
 
-*Tip: Find another path other than going straight up*
+    *Tip: Find another path other than going straight up*
 </p>
 
 
 **CheckPoint 8**
 
-<p style = "text-align: center">
+<p align="center">
 <img src = "./READMEImg/CheckPoint8.gif" style = "
   width: 85%;"/> 
 </p>
 
 **CheckPoint 9**
 
-<p style = "text-align: center">
+<p align="center">
 <img src = "./READMEImg/CheckPoint9.gif" style = "
   width: 85%;"/> 
 
@@ -100,7 +98,7 @@
 
 **CheckPoint 10**
 
-<p style = "text-align: center">
+<p align="center">
 <img src = "./READMEImg/CheckPoint10.gif" style = "
   width: 85%;"/> 
 </p>
